@@ -118,11 +118,10 @@ color: white;
      width: 300px;
     }
 .lowerbox{
-    width: 90%;
-    height:15%;
+    width: 1170px;
+    height:85px;
     position: absolute;
-    left:5%;
-    top:100%;
+    top:610px;
     background-color: rgb(70, 70, 70);
     border:solid 0.1px rgb(70, 70, 70);
     border-radius: 4px;
