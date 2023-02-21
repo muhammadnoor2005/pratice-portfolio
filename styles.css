@@ -65,9 +65,9 @@ color: white;
     display: inline-block;
     color: rgb(160, 160, 160);
     position: absolute;
-    left: 70%;
+    right: 65px;
     font-size: 25px;
-    top:25%;
+    top:160px;
     max-width: 300px;
     
  }
