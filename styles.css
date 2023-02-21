@@ -154,8 +154,8 @@ box-shadow:  4px -4px 5px 0.1px rgba(0, 0, 0, 0.479);
 }
 .lowdes{
     max-width: 250px;
-    position: relative;
-    top: -80px;
+    position: absolute;
+    bottom:60px;
     
 }
 .detail2{
@@ -165,9 +165,9 @@ box-shadow:  4px -4px 5px 0.1px rgba(0, 0, 0, 0.479);
 }
 .a250{
     display: inline-block;
-    position: relative;
-    top: 340px;
-    left:25px;
+    position: absolute;
+    top:970px;
+    left:68px;
     color: gold;
 }
 .ds250{
@@ -176,26 +176,26 @@ box-shadow:  4px -4px 5px 0.1px rgba(0, 0, 0, 0.479);
 }
 .b100{
     display: inline-block;
-    position: relative;
-    top: 340px;
-    left: 35px;
+    position: absolute;
+    top: 970px;
+    left: 200px;
     color: gold;
 }
 .ds100{
     color:  rgb(160, 160, 160);
 }
 .c30{
-    position: relative;
-    top: 360px;
-    left: 25px;
+    position: absolute;
+    top: 1030px;
+    left: 67px;
     display: inline-block;
     color: gold;
 }
 .d10{
     display: inline-block;
     position: relative;
-    top: 360px;
-    left:115px;
+    top: 520px;
+    left:160px;
     color: gold;
 }
 .lowersec{
